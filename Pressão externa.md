@@ -38,117 +38,117 @@
 <thead>
 <tr>
 <th><strong>Grupo</strong></th>
-<th><strong>Grau de Aço</strong></th>
-<th><strong>Tens. Esc. min (<em>psi</em>)</strong></th>
-<th><strong>Tensão de esc. máx.</strong></th>
-<th><strong>Tensão última do aço</strong></th>
+<th align="center"><strong>Grau de Aço</strong></th>
+<th align="center"><strong>Tens. Esc. min (<em>psi</em>)</strong></th>
+<th align="center"><strong>Tensão de esc. máx.</strong></th>
+<th align="center"><strong>Tensão última do aço</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>1</strong></td>
-<td>H40</td>
-<td>40 000</td>
-<td>80 000</td>
-<td>60 000</td>
+<td align="center">H40</td>
+<td align="center">40 000</td>
+<td align="center">80 000</td>
+<td align="center">60 000</td>
 </tr>
 <tr>
 <td>1</td>
-<td>J55</td>
-<td>55 000</td>
-<td>80 000</td>
-<td>75 000</td>
+<td align="center">J55</td>
+<td align="center">55 000</td>
+<td align="center">80 000</td>
+<td align="center">75 000</td>
 </tr>
 <tr>
 <td>1</td>
-<td>K55</td>
-<td>55 000</td>
-<td>80 000</td>
-<td>95 000</td>
+<td align="center">K55</td>
+<td align="center">55 000</td>
+<td align="center">80 000</td>
+<td align="center">95 000</td>
 </tr>
 <tr>
 <td>1</td>
-<td>N80</td>
-<td>80 000</td>
-<td>110 000</td>
-<td>100 000</td>
+<td align="center">N80</td>
+<td align="center">80 000</td>
+<td align="center">110 000</td>
+<td align="center">100 000</td>
 </tr>
 <tr>
 <td>1</td>
-<td>N80Q</td>
-<td>80 000</td>
-<td>110 000</td>
-<td>100 000</td>
+<td align="center">N80Q</td>
+<td align="center">80 000</td>
+<td align="center">110 000</td>
+<td align="center">100 000</td>
 </tr>
 <tr>
 <td>1</td>
-<td>R95</td>
-<td>95 000</td>
-<td>110 000</td>
-<td>105 000</td>
+<td align="center">R95</td>
+<td align="center">95 000</td>
+<td align="center">110 000</td>
+<td align="center">105 000</td>
 </tr>
 <tr>
 <td><strong>2</strong></td>
-<td>M65</td>
-<td>65 000</td>
-<td>85 000</td>
-<td>85 000</td>
+<td align="center">M65</td>
+<td align="center">65 000</td>
+<td align="center">85 000</td>
+<td align="center">85 000</td>
 </tr>
 <tr>
 <td>2</td>
-<td>L80</td>
-<td>80 000</td>
-<td>95 000</td>
-<td>95 000</td>
+<td align="center">L80</td>
+<td align="center">80 000</td>
+<td align="center">95 000</td>
+<td align="center">95 000</td>
 </tr>
 <tr>
 <td>2</td>
-<td>L80 9Cr</td>
-<td>80 000</td>
-<td>95 000</td>
-<td>95 000</td>
+<td align="center">L80 9Cr</td>
+<td align="center">80 000</td>
+<td align="center">95 000</td>
+<td align="center">95 000</td>
 </tr>
 <tr>
 <td>2</td>
-<td>L80 13Cr³</td>
-<td>80 000</td>
-<td>95 000</td>
-<td>95 000</td>
+<td align="center">L80 13Cr³</td>
+<td align="center">80 000</td>
+<td align="center">95 000</td>
+<td align="center">95 000</td>
 </tr>
 <tr>
 <td>2</td>
-<td>C90</td>
-<td>90 000</td>
-<td>105 000</td>
-<td>100 000</td>
+<td align="center">C90</td>
+<td align="center">90 000</td>
+<td align="center">105 000</td>
+<td align="center">100 000</td>
 </tr>
 <tr>
 <td>2</td>
-<td>T95</td>
-<td>95 000</td>
-<td>110 000</td>
-<td>105 000</td>
+<td align="center">T95</td>
+<td align="center">95 000</td>
+<td align="center">110 000</td>
+<td align="center">105 000</td>
 </tr>
 <tr>
 <td>2</td>
-<td>C110</td>
-<td>110 000</td>
-<td>120 000</td>
-<td>115 000</td>
+<td align="center">C110</td>
+<td align="center">110 000</td>
+<td align="center">120 000</td>
+<td align="center">115 000</td>
 </tr>
 <tr>
 <td><strong>3</strong></td>
-<td>P110</td>
-<td>110 000</td>
-<td>140 000</td>
-<td>125 000</td>
+<td align="center">P110</td>
+<td align="center">110 000</td>
+<td align="center">140 000</td>
+<td align="center">125 000</td>
 </tr>
 <tr>
 <td><strong>4</strong></td>
-<td>Q125</td>
-<td>125 000</td>
-<td>150 000</td>
-<td>135 000</td>
+<td align="center">Q125</td>
+<td align="center">125 000</td>
+<td align="center">150 000</td>
+<td align="center">135 000</td>
 </tr>
 </tbody>
 </table>
